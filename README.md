@@ -1,4 +1,4 @@
-# Instagram-Project-in-android-with-MVVM-architecture
+# Instagram-Project-in-android-with-MVVM-architecture 
 Project from [MindOrks Professional Bootcamp](https://bootcamp.mindorks.com/) with self practice work and added some additional features.
 
 ## Learned
